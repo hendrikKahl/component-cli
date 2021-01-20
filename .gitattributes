@@ -1,0 +1,2 @@
+bin/registry-darwin-amd64 filter=lfs diff=lfs merge=lfs -text
+bin/registry-linux-amd64 filter=lfs diff=lfs merge=lfs -text
